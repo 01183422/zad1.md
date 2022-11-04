@@ -13,11 +13,11 @@ dwie linie teksu z nagłówkami poziomu 2 i 3.
 2. "Mały Książę"
 3. "Asystent Wampira"
 
-*Warszawa
-*Radom 
-*Rzeszów
-*Gdynia
-*Kraków
+*Warszawa - pozyjca 1
+*Radom - pozyjca 2
+*Rzeszów - pozyjca 3
+*Gdynia - pozyjca 4
+*Kraków - pozyjca 5
 
 [1]: https://pl.wikipedia.org/
 [2]: https://www.youtube.com/
