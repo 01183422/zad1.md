@@ -1,11 +1,3 @@
-wybrany plik graficzny,
-listę numerowaną trzech ulubionych książek,
-listę nienumerowaną wybranych pięciu miast w Polsce,
-dwa odnośniki do wybranych zasobów internetowych,
-pojedyncze zdanie zawierające wyrazy wyróżnione w trybach: bold, italic, striketrough,
-wybrany wzór matematyczny w formacie Latex,
-dwie linie teksu z nagłówkami poziomu 2 i 3.
-
 
 ![alt text]( https://static.wikia.nocookie.net/disney/images/b/b3/Zygzak_mcqueen_art.png/revision/latest?cb=20170125154546&path-prefix=pl "Obrazek 1")
 
@@ -19,13 +11,13 @@ dwie linie teksu z nagłówkami poziomu 2 i 3.
 +  Gdynia
 +  Kraków
 
-[Wikipedia] (https://pl.wikipedia.org/)
+[Wikipedia](https://pl.wikipedia.org/)
 
 [YouTube](https://www.youtube.com/)
 
 **Ala** *ma* ~~kota~~.
 
-wzór
+\(\cos (2 \theta ) = \cos ^ 2 \theta - \sin ^ 2 \theta\)	
 
 # Nagłówek 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non.
