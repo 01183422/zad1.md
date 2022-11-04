@@ -13,11 +13,11 @@ dwie linie teksu z nagłówkami poziomu 2 i 3.
 2. "Mały Książę"
 3. "Asystent Wampira"
 
-*Warszawa - pozycja 1
-*Radom - pozycja 2
-*Rzeszów - pozycja 3
-*Gdynia - pozycja 4
-*Kraków - pozycja 5
++ lista nienumerowana - Warszawa
++ lista nienumerowana - Radom
++ lista nienumerowana - Rzeszów
++ lista nienumerowana - Gdynia
++ lista nienumerowana - Kraków
 
 [1]: https://pl.wikipedia.org/
 [2]: https://www.youtube.com/
