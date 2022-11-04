@@ -19,8 +19,9 @@ dwie linie teksu z nagłówkami poziomu 2 i 3.
 +  Gdynia
 +  Kraków
 
-[1]: Wikipedia https://pl.wikipedia.org/
-[2]: YouTube https://www.youtube.com/
+[1]: [Wikipedia] https://pl.wikipedia.org/
+
+[2]: [YouTube] https://www.youtube.com/
 
 **Ala** *ma* ~~kota~~.
 
