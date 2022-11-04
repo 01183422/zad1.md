@@ -26,9 +26,9 @@ dwie linie teksu z nagłówkami poziomu 2 i 3.
 
 wzór
 
-#Nagłówek 1
+# Nagłówek 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non.
-##Nagłówek 2
+## Nagłówek 2
 Quis hendrerit dolor magna eget est lorem ipsum dolor sit. Volutpat odio facilisis mauris sit amet massa. 
-###Nagłówek 3
+### Nagłówek 3
 Commodo odio aenean sed adipiscing diam donec adipiscing tristique. Mi eget mauris pharetra et. Non tellus orci ac auctor augue. 
