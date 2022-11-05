@@ -1,24 +1,37 @@
+1 Wstawić grafikę 
 
-![alt text]( https://static.wikia.nocookie.net/disney/images/b/b3/Zygzak_mcqueen_art.png/revision/latest?cb=20170125154546&path-prefix=pl "Obrazek 1")
+![alt text]( https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_of_YouTube_%282013-2015%29.svg )
 
-1. Seria "Harry Potter"
+
+2 lista numerowana trzech ulubionych książek
+1. Seria książek "Harry Potter"
 2. "Mały Książę"
 3. "Asystent Wampira"
 
+3 lista nienumerowana wybranych pięciu miast w Polsce
 +  Warszawa
 +  Radom
 +  Rzeszów
 +  Gdynia
 +  Kraków
 
+​
+4 dwa odnośniki do wybranych zasobów internetowych
+
 [Wikipedia](https://pl.wikipedia.org/)
 
 [YouTube](https://www.youtube.com/)
 
-**Ala** *ma* ~~kota~~.
+5 pojedyncze zdanie zawierające wyrazy wyróżnione w trybach: bold, italic, striketrough
 
-\(\cos (2 \theta ) = \cos ^ 2 \theta - \sin ^ 2 \theta\)	
+​**Ala** *ma* ~~kota~~.
 
+6 wybrany wzór matematyczny w formacie Latex
+
+$$c=\sqrt{a^2+b^2}$$
+
+
+7 dwie linie teksu z nagłówkami poziomu 2 i 3
 # Nagłówek 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non.
 ## Nagłówek 2
